@@ -2,7 +2,7 @@
 
 ![MindBloom](https://img.shields.io/badge/MindBloom-v2.0-blue)
 ![Status](https://img.shields.io/badge/Status-Prototype-brightgreen)
-![License](https://img.shields.io/badge/License-Proprietary-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 > **Slogan**：安静配合你的节奏，比你更懂你的专注状态
 
@@ -416,9 +416,11 @@ MindBloom 会记录你每次专注的持续时间，取中位数作为你的"典
 
 ## 📝 License & Disclaimer
 
-**MindBloom** © 2026 All Rights Reserved.
+本项目采用 **MIT License** 开源授权。
 
-本产品属于 **作息与放松辅助（Wellness）**，不用于诊断、治疗任何心理疾病或生理疾病。灯光与提示不构成医学建议，不能替代心理咨询或医疗服务。
+- 软件部分（包括固件源码、模拟器等）以 MIT 协议授权 — 详见 [LICENSE](./LICENSE)
+- 硬件设计文档、产品概念图、品牌标识（MindBloom 名称及 Logo）保留所有权利
+- 本产品属于 **作息与放松辅助（Wellness）**，不用于诊断、治疗任何心理疾病或生理疾病。灯光与提示不构成医学建议，不能替代心理咨询或医疗服务。
 
 如有严重情绪或心理困扰，请寻求专业医疗帮助。
 
